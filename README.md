@@ -21,4 +21,4 @@
 ## 마크다운 연습
 **저장소 이미지** 삽입하기
 
-![프로필 이미지](./blue background.png)
+![프로필 이미지](./blue_background.png)
